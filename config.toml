@@ -1,0 +1,30 @@
+baseURL = "http://castlestoneproject.github.io/docs"
+languageCode = "en"
+defaultContentLanguage = "en"
+
+title = "CastleStoneProject Documentation"
+theme = "hugo-theme-learn"
+defaultContentLanguageInSubdir= true
+
+[params]
+  editURL = "https://github.com/CastleStoneProject/docs/edit/master/content/"
+  description = "Documentation for CastleStoneProject"
+  author = "Mathieu Cornic"
+  showVisitedLinks = true
+  disableBreadcrumb = false
+  disableNextPrev = false
+
+[outputs]
+home = [ "HTML", "RSS", "JSON"]
+
+[Languages]
+[Languages.en]
+title = "Documentation for CastleStoneProject"
+weight = 1
+languageName = "English"
+
+[[Languages.en.menu.shortcuts]]
+name = "<i class='fab fa-fw fa-github'></i> GitHub repo"
+identifier = "ds"
+url = "https://github.com/CastleStoneProject/docs"
+weight = 10
