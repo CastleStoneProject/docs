@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>XML 定義ファイルガイド on Documentation for CastleStoneProject</title>
+    <link>http://castlestoneproject.github.io/docs/xml/</link>
+    <description>Recent content in XML 定義ファイルガイド on Documentation for CastleStoneProject</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 22 Jul 2020 22:49:06 +0900</lastBuildDate>
+    
+	<atom:link href="http://castlestoneproject.github.io/docs/xml/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>マップ構造</title>
+      <link>http://castlestoneproject.github.io/docs/xml/main/</link>
+      <pubDate>Wed, 22 Jul 2020 23:24:40 +0900</pubDate>
+      
+      <guid>http://castlestoneproject.github.io/docs/xml/main/</guid>
+      <description>全てのXML定義ファイルは一つの map ノードが存在していなければなりません。また、ファイルの文字コードはUTF-8を使用してください。
+&amp;lt;?xml version=&amp;#34;1.0&amp;#34; encoding=&amp;#34;UTF-8&amp;#34; standalone=&amp;#34;no&amp;#34;?&amp;gt; &amp;lt;map active=&amp;#34;false&amp;#34;&amp;gt; &amp;lt;name&amp;gt;CastleStoneNetwork&amp;lt;/name&amp;gt; &amp;lt;version&amp;gt;1.0.0&amp;lt;/version&amp;gt; &amp;lt;description&amp;gt; &amp;lt;text&amp;gt;Minecraftから&amp;lt;/text&amp;gt; &amp;lt;text&amp;gt;新しい冒険を始めよう。&amp;lt;/text&amp;gt; &amp;lt;/description&amp;gt; &amp;lt;time&amp;gt;1800&amp;lt;/time&amp;gt; &amp;lt;reward&amp;gt;1000&amp;lt;/reward&amp;gt; &amp;lt;fee&amp;gt;0&amp;lt;/fee&amp;gt; &amp;lt;world&amp;gt;csd_castlestone&amp;lt;/world&amp;gt; &amp;lt;authors&amp;gt; &amp;lt;author name=&amp;#34;the_karura&amp;#34; contribution=&amp;#34;Owner, Administrator, Developer&amp;#34;&amp;gt;db113963-10b7-41ec-b8a9-7d9fffd0cfc7&amp;lt;/author&amp;gt; &amp;lt;author name=&amp;#34;hayatarou_&amp;#34; contribution=&amp;#34;Administrator, Developer&amp;#34;&amp;gt;c65b1558-6410-4da7-9aef-cff42a2c1399&amp;lt;/author&amp;gt; &amp;lt;/authors&amp;gt; &amp;lt;/map&amp;gt; マップ名 説明文を設定します。 Map Name は文字列で指定してください。
+&amp;lt;name&amp;gt;&amp;gt;Map Name&amp;lt;/name&amp;gt; バージョン 説明文を設定します。 Version は文字列で 1.0.0 のようにコンマ区切りで数字を指定してください。
+&amp;lt;version&amp;gt;Version&amp;lt;/version&amp;gt; 説明文 説明文を設定します。 Text は文字列で指定してください。 &amp;lt;text&amp;gt; ノードで改行が可能です。
+&amp;lt;description&amp;gt; &amp;lt;text&amp;gt;Text1&amp;lt;/text&amp;gt; &amp;lt;text&amp;gt;Text2&amp;lt;/text&amp;gt; &amp;lt;/description&amp;gt; 制限時間 制限時間を設定します。 Second は数値で指定してください。
+&amp;lt;time&amp;gt;Second&amp;lt;/time&amp;gt; 報酬 報酬を設定します。報酬は Money で支払われます。数値で指定してください。
+&amp;lt;reward&amp;gt;Money&amp;lt;/reward&amp;gt; 参加費 参加費を設定します。参加費は Money で徴収されます。数値で指定してください。
+&amp;lt;fee&amp;gt;Money&amp;lt;/fee&amp;gt; ワールドフォルダ ワールドフォルダを設定します。 World Folder は csd_[Map Name] の形で指定してください。 Map Name は全て小文字で指定をしてください。</description>
+    </item>
+    
+  </channel>
+</rss>
