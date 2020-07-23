@@ -1,0 +1,2 @@
+# CONTRIBUTING
+プルリクエストのお作法
