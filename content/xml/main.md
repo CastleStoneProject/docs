@@ -91,6 +91,13 @@ draft: false
 
 ### 製作者
 
+#### `<author>`ノードの属性
+
+| 属性 | 説明 | 値 |
+|:----:|:----:|:----:|
+| name | プレイヤーの名前です。 | 文字列 |
+| contribution | 貢献内容を設定できます。 | 文字列 |
+
 製作者を設定します。 `UUID` はPlayerUUIDを指定してください。
 
 ```xml
@@ -98,8 +105,3 @@ draft: false
     <author name="Player Name" contribution="Contribution">UUID</author>
 </authors>
 ```
-
-| 属性 | 説明 | 値 |
-|:----:|:----:|:----:|
-| name | プレイヤーの名前です。 | 文字列 |
-| contribution | 貢献内容を設定できます。 | 文字列 |
