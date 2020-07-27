@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>XML 定義ファイルガイド on Documentation for CastleStoneProject</title>
+    <title>XML定義ファイルガイド on CastleStone Documentation</title>
     <link>http://castlestoneproject.github.io/docs/xml/</link>
-    <description>Recent content in XML 定義ファイルガイド on Documentation for CastleStoneProject</description>
+    <description>Recent content in XML定義ファイルガイド on CastleStone Documentation</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Wed, 22 Jul 2020 22:49:06 +0900</lastBuildDate>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 11 Feb 2019 19:27:37 +1000</lastBuildDate>
     
 	<atom:link href="http://castlestoneproject.github.io/docs/xml/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>マップ構造</title>
       <link>http://castlestoneproject.github.io/docs/xml/main/</link>
-      <pubDate>Wed, 22 Jul 2020 23:24:40 +0900</pubDate>
+      <pubDate>Tue, 28 Jul 2020 00:09:06 +0900</pubDate>
       
       <guid>http://castlestoneproject.github.io/docs/xml/main/</guid>
       <description>全てのXML定義ファイルは一つの map ノードが存在していなければなりません。また、ファイルの文字コードはUTF-8を使用してください。

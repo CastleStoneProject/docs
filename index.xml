@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>CastleStoneProject Documentation on Documentation for CastleStoneProject</title>
+    <title>CastleStone Documentation</title>
     <link>http://castlestoneproject.github.io/docs/</link>
-    <description>Recent content in CastleStoneProject Documentation on Documentation for CastleStoneProject</description>
+    <description>Recent content on CastleStone Documentation</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Wed, 22 Jul 2020 22:11:28 +0900</lastBuildDate>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 28 Nov 2018 15:14:39 +1000</lastBuildDate>
     
 	<atom:link href="http://castlestoneproject.github.io/docs/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>マップ構造</title>
       <link>http://castlestoneproject.github.io/docs/xml/main/</link>
-      <pubDate>Wed, 22 Jul 2020 23:24:40 +0900</pubDate>
+      <pubDate>Tue, 28 Jul 2020 00:09:06 +0900</pubDate>
       
       <guid>http://castlestoneproject.github.io/docs/xml/main/</guid>
       <description>全てのXML定義ファイルは一つの map ノードが存在していなければなりません。また、ファイルの文字コードはUTF-8を使用してください。
@@ -25,15 +25,6 @@
 &amp;lt;time&amp;gt;Second&amp;lt;/time&amp;gt; 報酬 報酬を設定します。報酬は Money で支払われます。数値で指定してください。
 &amp;lt;reward&amp;gt;Money&amp;lt;/reward&amp;gt; 参加費 参加費を設定します。参加費は Money で徴収されます。数値で指定してください。
 &amp;lt;fee&amp;gt;Money&amp;lt;/fee&amp;gt; ワールドフォルダ ワールドフォルダを設定します。 World Folder は csd_[Map Name] の形で指定してください。 Map Name は全て小文字で指定をしてください。</description>
-    </item>
-    
-    <item>
-      <title>目次</title>
-      <link>http://castlestoneproject.github.io/docs/content/</link>
-      <pubDate>Wed, 22 Jul 2020 22:57:22 +0900</pubDate>
-      
-      <guid>http://castlestoneproject.github.io/docs/content/</guid>
-      <description> XML 定義ファイルガイド  マップ構造    </description>
     </item>
     
   </channel>
