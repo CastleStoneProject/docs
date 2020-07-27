@@ -1,3 +1,6 @@
-[submodule "themes/hugo-theme-learn"]
-	path = themes/hugo-theme-learn
-	url = https://github.com/matcornic/hugo-theme-learn.git
+[submodule "themes/whisper"]
+	path = themes/whisper
+	url = https://github.com/JugglerX/hugo-whisper-theme.git
+[submodule "themes/ace-docs"]
+	path = themes/ace-docs
+	url = https://github.com/vantagedesign/ace-documentation.git
