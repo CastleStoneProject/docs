@@ -2,7 +2,7 @@ baseURL = "http://castlestoneproject.github.io/docs"
 languageCode = "en-us"
 DefaultContentLanguage = "en"
 title = "CastleStone Documentation"
-theme = "ace-documentation"
+theme = "ace-docs"
 pygmentsCodeFences = true
 pygmentsStyle = "monokailight"
 
