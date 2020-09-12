@@ -3,8 +3,6 @@ title: 'Objectives'
 date: 2020-09-11T00:00:00+09:00
 ---
 
-# Objectives
-
 ## Callback
 
 #### objectives.onEnable
